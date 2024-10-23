@@ -24,3 +24,6 @@ My analysis provides valuable insights into the current state and trends of elec
 **Consumer Awareness:** Understanding eligibility for incentives can help consumers make informed decisions when purchasing an EV, enhancing overall market engagement.
 
 By leveraging these insights, stakeholders can make informed decisions that promote further growth in the EV market and address challenges related to adoption and infrastructure.
+## Future Work
+I woud like to analyze demographic data to understand the characteristics of EV buyers. Identifying trends in age, income, and location can help manufacturers target their marketing efforts effectively.
+## Thanks for viewing my work.
