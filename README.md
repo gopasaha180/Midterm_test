@@ -7,7 +7,7 @@ This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Elect
 https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data
 
 ## Link to Tableau Dashboard:
-https://public.tableau.com/app/profile/gopa.dey4578/viz/Electric_Vehicles_Growth_Analisis/Story1
+https://public.tableau.com/app/profile/gopa.dey4578/viz/Electric_Vehicles_Growth_Analisis_Midterm/Story1
 
 ## About My Work
 My analysis provides valuable insights into the current state and trends of electric vehicle (EV) adoption. Here are several ways this analysis can help:
